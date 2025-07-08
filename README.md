@@ -15,3 +15,9 @@ This project is a full-stack web application for building, managing, and exporti
 
 ## Getting Started
 See the README files in each subfolder for setup instructions.
+
+##Home ##Screen
+![image](https://github.com/user-attachments/assets/187af375-3808-4877-bb9c-298c9bccdc6e)
+
+##Login ##Signup
+![image](https://github.com/user-attachments/assets/5b7ad690-ce05-4f79-a53a-fc359e16dd93)
