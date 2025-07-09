@@ -55,7 +55,7 @@ const Dashboard: React.FC = () => {
         </div>
       </nav>
 
-      {/* Main Content */}
+      {/* Main Contents */}
       <main className="flex-1 flex flex-col items-center justify-center px-4 py-8">
         <div className="w-full max-w-4xl bg-white/70 backdrop-blur-lg rounded-3xl shadow-2xl p-8 mt-8 mb-8 border border-white/40">
           <h1 className="text-4xl font-extrabold text-gray-900 mb-2">Welcome, {user || "User"}!</h1>
@@ -92,7 +92,7 @@ const Dashboard: React.FC = () => {
         </div>
       </main>
 
-      {/* Footer */}
+      {/* Footer section addede */}
       <footer className="text-center py-4 text-gray-500 bg-white/60 backdrop-blur-md shadow-inner">
         © 2025 ResumeBuilderAI. All rights reserved.
       </footer>
